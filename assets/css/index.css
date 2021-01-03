@@ -36,6 +36,7 @@
   .layui-nav-img {
     width: 40px;
     height: 40px;
+    display: none;
   }
   
   .text-avatar {
@@ -51,4 +52,5 @@
     position: relative;
     top: 4px;
     margin-right: 10px;
+    /* display:none; */
   }

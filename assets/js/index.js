@@ -11,6 +11,7 @@ $(function(){
           });
     })
 });
+// 获取用户信息
 function getUserInfo(){
     $.ajax({
         url:"/my/userinfo",
